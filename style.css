@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(198, 166, 97);
+    padding: 10px;
+    font-size: 28px;
+    font-weight: bold;
+
+    
+}
+
+.img{
+    padding-top: 10px;
+}
+
+*{
+    background: #dfde92;
+}
+
+.mainbody{
+    text-align: center;
+}
